@@ -1,0 +1,28 @@
+{
+  "name": "llyv.js",
+  "filename": "llyv.min.js",
+  "version": "0.1.0",
+  "description": "Optimizing the performance while loading multiple YouTube videos on the same page",
+  "keywords": [
+    "lazy-load-youtube-videos",
+    "lazy-load",
+    "youtube",
+    "videos"
+  ],
+  "homepage": "https://github.com/wingkwong/lazy-load-youtube-videos",
+  "author": "wingkwong",
+  "npmName": "llyv.js",
+  "npmFileMap": [
+    {
+      "basePath": "",
+      "files": [
+        "llyv*"
+      ]
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wingkwong/lazy-load-youtube-videos.git"
+  },
+  "license": "MIT"
+}
